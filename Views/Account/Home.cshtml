@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Home";
+    Layout=null;
+}
+
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .home-container {
+            background-color: #fff;
+            padding: 30px 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            text-align: center;
+            width: 350px;
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 25px;
+        }
+
+        .btn {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            background-color: #888888; 
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #555555; 
+        }
+    </style>
+</head>
+
+<body>
+    <div class="home-container">
+        <h2>Welcome back, @ViewBag.Email!</h2>
+        <a class="btn" href="/Shop/Products">Go to Shop</a><br />
+        <a class="btn" href="/Account/Logout">Logout</a>
+    </div>
+</body>

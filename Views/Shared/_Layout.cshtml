@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+
+    <!-- Page-specific CSS -->
+    @RenderSection("Styles", required: false)
+</head>
+
+<body>
+
+    <!-- Simple Navbar -->
+    <header style="background:#333; padding:10px;">
+        <a href="/" style="color:white; margin-right:20px;">Home</a>
+        <a href="/Home/About" style="color:white;">About</a>
+    </header>
+
+    <!-- Main Content -->
+    <main style="padding:20px;">
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
+    <footer style="text-align:center; margin-top:40px; padding:10px; background:#f4f4f4;">
+        © @DateTime.Now.Year - My Website
+    </footer>
+
+    <!-- Page-specific Scripts -->
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

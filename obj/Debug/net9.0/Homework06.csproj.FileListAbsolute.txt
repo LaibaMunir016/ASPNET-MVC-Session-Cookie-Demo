@@ -1,0 +1,193 @@
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\appsettings.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\Homework06.staticwebassets.runtime.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\Homework06.staticwebassets.endpoints.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\Homework06.exe
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\Homework06.deps.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\Homework06.runtimeconfig.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\Homework06.dll
+C:\Users\lenovo\Downloads\Homework06\Homework06\bin\Debug\net9.0\Homework06.pdb
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.RazorAssemblyInfo.cache
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.RazorAssemblyInfo.cs
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\scopedcss\bundle\Homework06.styles.css
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\scopedcss\projectbundle\Homework06.bundle.scp.css
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\yerc4y7b5s-b9sayid5wm.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\n4q606oh4q-61n19gt1b8.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\8939x70c0a-xtxxf3hu2r.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\p1bsvnbnme-bqjiyaj88i.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\pff8rnslk7-c2jlpeoesf.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\671hxb94dr-erw9l3u2r3.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\3ry8u2nd8c-aexeepp0ev.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\jdl8ae3wqv-d7shbmvgxk.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\gcs7lql61a-ausgxo2sd3.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\o241d5skx8-k8d9w2qqmf.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\j069ixni25-cosvhxvwiu.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\r2zudq6sa6-ub07r2b239.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\m6bmfgpkp3-fvhpjtyr6v.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\cyq2krag2s-b7pk76d08c.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\ysxhcupyj0-fsbi9cje9m.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\8b8xo3ab68-rzd6atqjts.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\llia2276m6-ee0r1s7dh0.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\br5e5kkzqj-dxx9fxp4il.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\evv0rqits5-jd9uben2k1.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\extnk437wd-khv3u5hwcm.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\msla1rzpia-r4e9w2rdcm.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\rqs1aujb8d-lcd1t2u6c8.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\rpd5juaus0-c2oey78nd0.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\ivn32kaan2-tdbxkamptv.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\ddhtfhs71c-j5mq2jizvt.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\3602489nhv-06098lyss8.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\qqa032370i-nvvlpmu67g.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\xrd1eeod8n-s35ty4nyc5.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\wn8ba9tcav-pj5nd1wqec.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\06716qih9d-46ein0sx1k.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\3d2x79fwrn-v0zj4ognzu.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\fqkflk4fym-37tfw0ft22.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\b85nyz5652-hrwsygsryq.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\yrlb39p8vt-pk9g2wxc8p.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\5j5bkdw6y4-ft3s53vfgj.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\g44doluj8b-6cfz1n2cew.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\cdzdr2enr1-6pdc2jztkx.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\qom9fctet0-493y06b0oq.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\atg4nk38ex-iovd86k7lj.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\vudr1hzb48-vr1egmr9el.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\f06tpaa1nm-kbrnm935zg.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\7hs34c74dv-jj8uyg4cgr.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\ana89xpdd2-y7v9cxd14o.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\kr82sb197d-notf2xhcfb.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\9fulpflfd6-h1s4sie4z3.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\lcfv0oduuk-63fj8s7r0e.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\a7aeuowp39-0j3bgjxly4.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\bu5gnnkudb-47otxtyo56.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\fqnngn4pcf-4v8eqarkd7.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\ko5oed9kdx-356vix0kms.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\i02lmfn4zb-83jwlth58m.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\dat0qz5e3b-mrlpezrjn3.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\nofkgkszwp-lzl9nlhx6b.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\89ak9fjpwl-ag7o75518u.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\8slf474w9n-x0q3zqp4vz.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\in1nghopab-0i3buxo5is.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\xqau5bg21m-o1o13a6vjx.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\m6wtp5w3hg-ttgo8qnofa.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\fu9voylath-2z0ns9nrw6.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\kas6zr65co-muycvpuwrr.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\4va98kaaz3-87fc7y1x7t.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\bihqqc5c9s-mlv21k5csn.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\76e7gznl1t-jaimxyycyx.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\compressed\dnr5l6yzab-jaimxyycyx.gz
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.dll
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\refint\Homework06.dll
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.pdb
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\Homework06.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\Homework06\Homework06\obj\Debug\net9.0\ref\Homework06.dll
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\appsettings.Development.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\appsettings.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\Homework06.staticwebassets.runtime.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\Homework06.staticwebassets.endpoints.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\Homework06.exe
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\Homework06.deps.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\Homework06.runtimeconfig.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\Homework06.dll
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\bin\Debug\net9.0\Homework06.pdb
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.AssemblyInfoInputs.cache
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.AssemblyInfo.cs
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.csproj.CoreCompileInputs.cache
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.MvcApplicationPartsAssemblyInfo.cache
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.RazorAssemblyInfo.cache
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.RazorAssemblyInfo.cs
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.sourcelink.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\scopedcss\bundle\Homework06.styles.css
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\scopedcss\projectbundle\Homework06.bundle.scp.css
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\yerc4y7b5s-b9sayid5wm.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\n4q606oh4q-61n19gt1b8.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\8939x70c0a-xtxxf3hu2r.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\p1bsvnbnme-bqjiyaj88i.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\pff8rnslk7-c2jlpeoesf.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\671hxb94dr-erw9l3u2r3.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\3ry8u2nd8c-aexeepp0ev.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\jdl8ae3wqv-d7shbmvgxk.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\gcs7lql61a-ausgxo2sd3.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\o241d5skx8-k8d9w2qqmf.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\j069ixni25-cosvhxvwiu.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\r2zudq6sa6-ub07r2b239.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\m6bmfgpkp3-fvhpjtyr6v.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\cyq2krag2s-b7pk76d08c.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\ysxhcupyj0-fsbi9cje9m.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\8b8xo3ab68-rzd6atqjts.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\llia2276m6-ee0r1s7dh0.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\br5e5kkzqj-dxx9fxp4il.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\evv0rqits5-jd9uben2k1.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\extnk437wd-khv3u5hwcm.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\msla1rzpia-r4e9w2rdcm.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\rqs1aujb8d-lcd1t2u6c8.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\rpd5juaus0-c2oey78nd0.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\ivn32kaan2-tdbxkamptv.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\ddhtfhs71c-j5mq2jizvt.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\3602489nhv-06098lyss8.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\qqa032370i-nvvlpmu67g.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\xrd1eeod8n-s35ty4nyc5.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\wn8ba9tcav-pj5nd1wqec.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\06716qih9d-46ein0sx1k.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\3d2x79fwrn-v0zj4ognzu.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\fqkflk4fym-37tfw0ft22.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\b85nyz5652-hrwsygsryq.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\yrlb39p8vt-pk9g2wxc8p.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\5j5bkdw6y4-ft3s53vfgj.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\g44doluj8b-6cfz1n2cew.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\cdzdr2enr1-6pdc2jztkx.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\qom9fctet0-493y06b0oq.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\atg4nk38ex-iovd86k7lj.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\vudr1hzb48-vr1egmr9el.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\f06tpaa1nm-kbrnm935zg.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\7hs34c74dv-jj8uyg4cgr.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\ana89xpdd2-y7v9cxd14o.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\kr82sb197d-notf2xhcfb.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\9fulpflfd6-h1s4sie4z3.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\lcfv0oduuk-63fj8s7r0e.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\a7aeuowp39-0j3bgjxly4.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\bu5gnnkudb-47otxtyo56.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\fqnngn4pcf-4v8eqarkd7.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\ko5oed9kdx-356vix0kms.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\i02lmfn4zb-83jwlth58m.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\dat0qz5e3b-mrlpezrjn3.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\nofkgkszwp-lzl9nlhx6b.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\89ak9fjpwl-ag7o75518u.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\8slf474w9n-x0q3zqp4vz.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\in1nghopab-0i3buxo5is.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\xqau5bg21m-o1o13a6vjx.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\m6wtp5w3hg-ttgo8qnofa.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\fu9voylath-2z0ns9nrw6.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\kas6zr65co-muycvpuwrr.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\4va98kaaz3-87fc7y1x7t.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\bihqqc5c9s-mlv21k5csn.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\76e7gznl1t-jaimxyycyx.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\compressed\dnr5l6yzab-jaimxyycyx.gz
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.build.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.development.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.dll
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\refint\Homework06.dll
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.pdb
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\Homework06.genruntimeconfig.cache
+D:\Clone Repo\homework06-LaibaMunir16\Homework06\Homework06\obj\Debug\net9.0\ref\Homework06.dll

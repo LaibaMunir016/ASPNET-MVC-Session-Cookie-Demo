@@ -1,0 +1,101 @@
+@model List<Homework06Models.Product>
+@{
+    ViewData["Title"] = "Cart";
+    Layout=null;
+}
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .cart-container {
+            background-color: #fff;
+            padding: 30px 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            width: 500px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f0f0f0;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 8px 15px;
+            background-color: #888888; 
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+            transition: background-color 0.3s;
+            margin: 5px 0;
+        }
+
+        .btn:hover {
+            background-color: #555555; 
+        }
+
+        .empty-message {
+            color: #555;
+            font-style: italic;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="cart-container">
+        <h2>Your Cart</h2>
+
+        @if (Model.Count == 0)
+        {
+            <p class="empty-message">Your cart is empty.</p>
+        }
+        else
+        {
+            <table>
+                <tr>
+                    <th>Product</th>
+                    <th>Price</th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>Rs. @item.Price</td>
+                    </tr>
+                }
+            </table>
+        }
+
+        <a class="btn" href="/Shop/Products">Continue Shopping</a>
+        <a class="btn" href="/Shop/ClearCart">Clear Cart</a>
+        <a class="btn" href="/Account/Logout">Logout</a>
+
+    </div>
+</body>

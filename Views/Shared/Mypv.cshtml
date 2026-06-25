@@ -1,0 +1,47 @@
+@model List<string>
+<div class="sidebar">
+    <h3>Menu</h3>
+    <ul>
+        <li><a href="/Home/Index">Home</a></li>
+        <li><a href="/Home/About">About</a></li>
+        <li><a href="/Home/Contact">Contact</a></li>
+        <li><a href="/Account/Login">Login</a></li>
+        @foreach(var item in Model)
+        {
+            <li><a href="#">@item</a></li>
+        }
+
+    </ul>
+</div>
+
+<style>
+    .sidebar {
+        width: 200px;
+        background-color: #f1f1f1;
+        padding: 15px;
+        border-radius: 5px;
+    }
+
+    .sidebar h3 {
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+    .sidebar ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+    .sidebar ul li {
+        margin-bottom: 10px;
+    }
+
+    .sidebar ul li a {
+        text-decoration: none;
+        color: #333;
+    }
+
+    .sidebar ul li a:hover {
+        color: #007bff;
+    }
+</style>
